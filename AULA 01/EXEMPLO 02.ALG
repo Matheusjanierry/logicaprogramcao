@@ -3,8 +3,7 @@ algoritmo "Criando Variáveis"
 var x: inteiro
 
 inicio
-    x <- 7
-    x <- 9
+    x <- 5
     escreva (x)
 
 fimalgoritmo
